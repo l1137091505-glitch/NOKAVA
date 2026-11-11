@@ -1,0 +1,9 @@
+{
+  "selected": "NOKAVA",
+  "searched": [
+    {"name":"GRELORA","result":"rejected: existing registered mark and products"},
+    {"name":"HELORA","result":"rejected: existing software and mobile apps"},
+    {"name":"HALOVIA","result":"rejected: existing software studio and apps"},
+    {"name":"NOKAVA","result":"selected: no competing Web3 product found in exact-name search"}
+  ]
+}
